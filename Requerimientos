@@ -1,0 +1,4 @@
+
+pillow==9.1.1
+streamlit==1.8.0
+streamlit-option-menu==0.3.2
